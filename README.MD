@@ -21,7 +21,7 @@ Pre-Requisites:
 * Automation API's ctm cli installed
 
 ## Code Walkthrough
-1. [Writing JSON Definitions](./writing-json-definitions)
+1. [Writing JSON Definitions](./ctmjobs/README.md)
 2. [Automating testing and deployment](./Jenkinsfile.md)
 
 ## Video
